@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>masong.MOMAEducation</string>
+				<string>kanhaizi.MOMAEducation</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
